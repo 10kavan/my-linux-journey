@@ -26,6 +26,8 @@ This is a list of basic Linux commands I've learned. Useful for beginners and fo
 
 | rm      | Remove files/folders	|
 
+| type	  | displays type of command shell will execute |
+
 ---
 
 ##File Permissions and Ownership
@@ -87,6 +89,8 @@ This is a list of basic Linux commands I've learned. Useful for beginners and fo
 | uptime     | How long system has been running |
 
 | uname -a   | System info		|
+
+| which      | determine exact location of given executable|
 
 ---
 
@@ -159,6 +163,12 @@ This is a list of basic Linux commands I've learned. Useful for beginners and fo
 | history	| Show command history	     |
 
 | clear		| Clear terminal Screen	     |
+
+| apropos	| Display Appropriate Commands|
+
+|whatis		| Display One-line Manual Page Descriptions|
+
+| info		| Display a Program's Info Entry|
 
 ---
 
