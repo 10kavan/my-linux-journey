@@ -128,6 +128,10 @@ This is a list of basic Linux commands I've learned. Useful for beginners and fo
 
 | ln -s		   | Create symbolic link    |
 
+| tee		   | Read from standard input and write to standard output and files |
+
+| uniq		   | Report or omit repeated lines |
+
 ---
 
 ##File Viewing and Editing
@@ -147,6 +151,10 @@ This is a list of basic Linux commands I've learned. Useful for beginners and fo
 | nano		| Basic terminal text editor |
 
 | vim		| Advanced terminal editor   |
+
+| wc		| Print newline, word, and byte counts for each file|
+
+| sort		| Sort lines of text	     |
 
 ---
 
