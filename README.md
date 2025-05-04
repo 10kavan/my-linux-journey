@@ -200,6 +200,28 @@ This is a list of basic Linux commands I've learned. Useful for beginners and fo
 
 ---
 
+##Storage Media
+
+|Command	| Description		     |
+
+|---------------|----------------------------|
+
+|mount		| Mount a file system	     |
+
+|unmount	| Unmount a file system	     |
+
+|fsck		| Check and repair a file system|
+
+|mkfs		| Create a file system	     |
+
+|dd		| Convert and copy a file    |
+
+|md5sum		| Calculate an MD5 checksum  |
+
+|wodim		| Write data to optical storage media|
+
+|genisoimage(mkisofs)| Create ISO 9660 image file|
+
 ##Still Learning
 
 -Shell scripting
